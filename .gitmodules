@@ -341,3 +341,6 @@
 [submodule "frozen/Adafruit_CircuitPython_Wave"]
 	path = frozen/Adafruit_CircuitPython_Wave
 	url = http://github.com/adafruit/Adafruit_CircuitPython_Wave.git
+[submodule "lib/Neuton"]
+	path = lib/Neuton
+	url = git@github.com:aulitech/Neuton.git
